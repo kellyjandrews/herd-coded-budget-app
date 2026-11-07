@@ -2,8 +2,8 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata = {
-  title: "New app",
-  description: "A new app built with the factory",
+  title: "Herd Budget | IT spending, made clear",
+  description: "A simple budget dashboard for IT teams.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
